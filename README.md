@@ -1,3 +1,6 @@
+## HTML Chapter 01
+It is my coding practice with the TUTORIAL of Dave Gray. 
+
 ## Source
 ### Dave Gray 的 HTML 課程
 https://youtube.com/playlist?list=PL0Zuz27SZ-6OlAwitnFUubtE93DO-l0vu
