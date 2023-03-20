@@ -16,7 +16,7 @@ https://www.youtube.com/@DaveGrayTeachesCode
         教學影片固定的開頭
 
 ###  2. Welcome and Who This Tutorial Series Is For
-        歡迎觀眾，說明可能需要教材的TA
+        歡迎觀眾，工具與資料說明
 
 ###  3. What is HTML?
         用 MDN 文件說明 HTML
